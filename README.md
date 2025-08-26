@@ -19,13 +19,13 @@ It helps developers **generate, translate, and explain code** in multiple progra
 - **Frontend:** [Streamlit](https://streamlit.io/)
 - **Backend:** [LangChain](https://www.langchain.com/)
 - **Models:**  
-    - OpenAI (GPT-4, GPT-4o, GPT-4 Turbo)   
+    - OpenAI (GPT-4, GPT-4o, GPT-4-Turbo)   
 
 ---
 
 ## **How to Use**
 1. Launch the app.
-2. Choose the **Provider** (OpenAI or CodeLlama).
+2. Choose the **Model** (GPT-4, GPT-4o or GPT-4-Turbo).
 3. Select the **Task**:
     - **Code Generation**: Write your query and choose a target language.
     - **Code Translation**: Paste your code and select source & target languages.
